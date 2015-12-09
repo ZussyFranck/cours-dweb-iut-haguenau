@@ -17,6 +17,18 @@ Joel Mercier (@Joel-Mercier) & François Mang (@Franz9425) :
  - Travailler sur une intégration avec d'autres outils (par exemple, avec github, pour avoir une notification quand quelqu'un fait un commit (ou une autre intégration))
 
 
+### Jeu 2 joueurs 1 contre 1
+
+Franck Zussy (@ZussyFranck)
+
+- Génération d’un terrain
+- Contrôle des déplacement des deux personnages
+- Gestion des collisions avec le terrain et entre les personnages
+- Gestion des attaques des personnages
+- Possibilité de jouer en ligne un contre un pour la partie serveur
+- Ajout de bonus générés aléatoirement sur le terrain (à voir)
+
+
 ## Lecteur de GIST (Entrainement)
 
 Le but de ce petit projet est d'afficher le dernier GIST pour un utilisateur donné : Par exemple, voici la liste des gist de l'utilisateur TJ : https://gist.github.com/tj
@@ -90,6 +102,7 @@ Quentin Kerguélen (@qkerguelen) et Hugo Beyer (@HugoBeyer67)
  * Changement des règles par une interface
  * Pièces ajoutables : Block,Beehive,Loaf,Boat , Blinker, Toad, Beacon, Pulsar, Pentadecathlon, Glider, Lightweight spaceship (LWSS) (Venant du serveur également)
  * Version natives iPhone et Android avec ReactNative
+ 
 
 ## Tetris
 
